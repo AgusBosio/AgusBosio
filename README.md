@@ -71,7 +71,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?AgusBosio=&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?agusbosio=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" align="center" /></div>  
 
 <br/>  
 
