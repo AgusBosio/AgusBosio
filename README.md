@@ -48,9 +48,7 @@
 ## Sobre mi avance
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusBosio&show_icons=true&locale=es&layout=compact" alt="AgusBosio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AgusBosio&show_icons=true&locale=es" alt="AgusBosio" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusBosio"/>
 
  
 ##  Le ponemos onda con un poco de musica.
