@@ -31,14 +31,13 @@
 
 ##  Actualmente uso
 
-Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en proceso de aprendizaje, y en el futuro espero poder seguir aumentando el repertorio, asi que aca te voy a dejar las que actualmente uso y cuales me gustaria sumar., asi que te dejo un listado de los recursos que hoy estan siendo parte de mi formación
+Actualmente estoy usando las siguentes tecnologías, porque estoy en proceso de aprendizaje, y en el futuro espero poder seguir aumentando el repertorio, asi que aca te voy un listado de recursos, sumadas las tecnologias que vengo usando.
 
 <br/>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![tailwind](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=tailwind&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
