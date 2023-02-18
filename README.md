@@ -19,7 +19,7 @@
 
 </a>
 <a href="https://github.com/AgusBosio/miportfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusBosio&repo=miportfolio&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusBosio&repo=miportfolio&description&theme=dracula" />
 </a>
 
 <br/>
