@@ -55,8 +55,9 @@
 ## Sobre mi avance
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusBosio"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusBosio&theme=dracula"/>
 
+ 
 ## Fanatico de 
 
  ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
