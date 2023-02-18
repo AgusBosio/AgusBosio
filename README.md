@@ -8,8 +8,7 @@
 <p align="left">
 <a href="[(https://www.linkedin.com/in/agustinpbosio/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustinpbosio" height="30" width="40" /></a>
 <a href="[(https://www.facebook.com/agustinpbosio])" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agustinpbosio" height="30" width="40" /></a>
-  </p>
-
+</p>
 
 # Te cuento algo sobre mi forma de ser y deseos. 
 
@@ -17,10 +16,12 @@
 
 ## Mis Repos
 
-</a>
-<a href="https://github.com/AgusBosio/miportfolio">
+
+ <h3 align="left">
+ <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/AgusBosio/miportfolio)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusBosio&repo=miportfolio&description&theme=dracula" />
 </a>
+
 
 <br/>
 <br/>
@@ -67,12 +68,38 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
 
 ## Sobre mi avance
 
+ 
+ 
+ ## <img src="https://img.icons8.com/nolan/26/github.png"/> Estadisticas en Github
+<div align="center">
+<p align="center">
+<a href="https://github.com/AgusBosio">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AgusBosio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200eem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgusBosio&layout=compact&langs_count=8&theme=dracula"/>
+ </a>
+</p>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusBosio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
+  <img width="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgusBosio&theme=dracula"  style="width: 98%" />
+</p>
+<p align="center"></div> 
 
+ 
+ 
+## Contador de Visitas
+ 
+
+
+<div align="center">
+    <h4 align="center"><img align="center" src="https://profile-counter.glitch.me/{AgusBosio}/count.svg" /></h4>
+</div>
+<div align="center">
+    <h4 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h4>
+</div>
+ 
 <br/>
-## Fanatico de 
+
+# Fanatico de 
 
  ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -82,5 +109,16 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
   ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
   ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
  
-##  Le ponemos onda con un poco de musica.
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&redirect=true)
+#
+<br/>
+
+ 
+
+<div align="center">
+ <p>Le ponemos onda con un poco de musica.</p>
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&redirect=true)</div>
+
+ 
+
+
