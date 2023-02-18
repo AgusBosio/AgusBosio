@@ -68,16 +68,13 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
 
 <br/>
 
-## Sobre mi avance
 
- 
- 
  ## <img src="https://img.icons8.com/nolan/26/github.png"/> Estadisticas en Github
 <div align="center">
 <p align="center">
 <a href="https://github.com/AgusBosio">
-  <img  height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=AgusBosio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgusBosio&layout=compact&langs_count=8&theme=dracula"/>
+  <img  height="150em" width="auto" src="https://github-readme-stats.vercel.app/api?username=AgusBosio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AgusBosio&layout=compact&langs_count=8&theme=dracula"/>
  
 
   
@@ -87,7 +84,7 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
 
 <p align="center">
 
- <img width="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgusBosio&theme=dracula"  style="width: 98%" />
+ <img width="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AgusBosio&theme=dracula"  style="width: 98%" />
  
  
 </p>
