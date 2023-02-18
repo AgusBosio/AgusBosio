@@ -90,7 +90,8 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
  
 ## Contador de Visitas
  
-
+<br/>
+<br/>
 
 <div align="center">
     <h4 align="center"><img align="center" src="https://profile-counter.glitch.me/{AgusBosio}/count.svg" /></h4>
@@ -102,6 +103,9 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
 <br/>
 
 # Fanatico de 
+<div align="center">
+
+<br/>
 
  ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
  ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
@@ -110,7 +114,8 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
  	![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
   ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
   ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
- 
+
+</div>
 #
 <br/>
 
