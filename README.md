@@ -119,8 +119,4 @@ Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en pr
 <div align="center">
  <p>Le ponemos onda con un poco de musica.</p>
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&redirect=true)</div>
-
- 
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=aguchob&redirect=true)</div>
