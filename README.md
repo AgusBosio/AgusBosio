@@ -8,20 +8,32 @@
 <p align="left">
 <a href="[(https://www.linkedin.com/in/agustinpbosio/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustinpbosio" height="30" width="40" /></a>
 <a href="[(https://www.facebook.com/agustinpbosio])" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="agustinpbosio" height="30" width="40" /></a>
- 
- 
+  </p>
 
-</p>
 
 # Te cuento algo sobre mi forma de ser y deseos. 
 
  ❤️  estoy en un momento en mi vida en el cual pude fusionar mis dos pasiones, la cual es Recursos Humanos, y las tecnolog[ias de programación, lo que me llevo hoy a recorrer el camino para convertirme en desarrollador Fullstack.<br/><br/>
 
+## Mis Repos
+
+</a>
+<a href="https://github.com/AgusBosio/miportfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AgusBosio&repo=miportfolio&theme=dracula" />
+</a>
+
+<br/>
+<br/>
 
 
-## Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en proceso de aprendizaje, y en el futuro espero poder seguir aumentando el repertorio, asi que aca te voy a dejar las que actualmente uso y cuales me gustaria sumar., asi que te dejo un listado de los recursos que hoy estan siendo parte de mi formación.
+
 
 ##  Actualmente uso
+
+Actualmente estoy usando las siguentes un parde tecnologías, porque estoy en proceso de aprendizaje, y en el futuro espero poder seguir aumentando el repertorio, asi que aca te voy a dejar las que actualmente uso y cuales me gustaria sumar., asi que te dejo un listado de los recursos que hoy estan siendo parte de mi formación
+
+<br/>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,9 +67,10 @@
 ## Sobre mi avance
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AgusBosio&theme=dracula"/>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgusBosio&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
 
- 
+<br/>
 ## Fanatico de 
 
  ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
